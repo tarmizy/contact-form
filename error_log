@@ -1,0 +1,33 @@
+[08-Aug-2019 12:13:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '@' in /home/argd3865/public_html/devops/devops/contact-2.php on line 102
+[08-Aug-2019 13:13:23 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:18:27 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:22:03 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:24:00 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:24:04 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:25:05 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:25:53 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:26:56 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:28:26 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:28:30 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PHPMailer::addAddress(), 0 passed in /home/argd3865/public_html/devops/devops/contact-2.php on line 67 and at least 1 expected in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php:817
+Stack trace:
+#0 /home/argd3865/public_html/devops/devops/contact-2.php(67): PHPMailer->addAddress()
+#1 {main}
+  thrown in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 817
+[08-Aug-2019 13:31:41 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PHPMailer::addAddress(), 0 passed in /home/argd3865/public_html/devops/devops/contact-2.php on line 67 and at least 1 expected in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php:817
+Stack trace:
+#0 /home/argd3865/public_html/devops/devops/contact-2.php(67): PHPMailer->addAddress()
+#1 {main}
+  thrown in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 817
+[08-Aug-2019 13:34:31 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:38:30 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:42:47 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:42:50 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:44:36 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:44:39 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:45:23 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:49:47 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:52:23 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:55:26 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 13:55:51 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
+[08-Aug-2019 14:26:47 Asia/Jakarta] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/argd3865/public_html/devops/devops/PHPMailer-master/class.phpmailer.php on line 1442
